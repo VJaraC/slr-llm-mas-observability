@@ -16,4 +16,6 @@ Este repositorio contiene el material suplementario que respalda la trazabilidad
   * `Filtrado citas`: $n = 2.227$ registros tras aplicar el umbral mínimo de citaciones CI3 ($-3.243$).
   * `Filtrado años`: $n = 1.746$ registros dentro de la ventana temporal 2021–2026 CI1 ($-481$).
   * `Rellenado DOI`: $n = 1.662$ registros tras verificación de presencia y deduplicación por DOI ($-84$).
+  * `Rellenado ISSN`: $n = 378$ registros tras aplicar el filtro de presencia de ISSN ($-1.284$).
+  * `Indexados` y `Priorizados`: $n = 347$ registros confirmados con indexación en Web of Science o Scopus ($-31$), previos a la lectura crítica de pertinencia temática ($N = 30$ estudios incluidos).
 * **[`fichas_extraccion/`](fichas_extraccion/):** Las **30 Fichas de Extracción de Información estandarizadas** (`D-01.pdf` a `D-15.pdf` y `V-01.pdf` a `V-15.pdf`) correspondientes al corpus final incluido ($N = 30$), donde se detallan los metadatos, evidencia objetiva, topología de comunicación, métricas reportadas, tipos de fallo colectivo, análisis crítico y valoración en escala de 1 a 5.
